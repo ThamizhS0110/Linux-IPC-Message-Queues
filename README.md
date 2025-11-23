@@ -98,9 +98,9 @@ int main(int argc, char *argv[]) {
 
 
 ## OUTPUT
+<img width="722" height="255" alt="image" src="https://github.com/user-attachments/assets/42df80b6-1e81-4f21-9f4d-6d87298a1d49" />
+<img width="636" height="131" alt="image" src="https://github.com/user-attachments/assets/fb61a8f1-a73c-4851-bfee-9c464f2ecbbc" />
 
-![Alt text](os_exp4_1.png)
-![Alt text](os_exp4_2.png)
 
 # RESULT:
 The programs are executed successfully.
